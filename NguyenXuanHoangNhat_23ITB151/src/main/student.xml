@@ -1,0 +1,20 @@
+<student>
+<student>
+<id>1</id>
+<name>Ngo Bao Tran</name>
+<address>99 Ngo Gia Tu</address>
+<dateofBirth>03/09/1992</dateofBirth>
+</student>
+<student>
+        <id>2</id>
+        <name>Nguyen Van A</name>
+        <address>04 Trần Hưng Đạo Điện Bàn</address>
+        <dateofBirth>2004-07-27</dateofBirth>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Nguyen Van 3</name>
+        <address>04 Trần Hưng Đạo Điện Bàn</address>
+        <dateofBirth>2004-07-27</dateofBirth>
+    </student>
+</student>
